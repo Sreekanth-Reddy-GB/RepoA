@@ -10,7 +10,7 @@ jobs:
         with:
             token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
             repository: Sreekanth-Reddy-GB/RepoB
-            event-type: my-event
+            event-type: sample_push
           
           
 #     name: Dispatch to Design system
