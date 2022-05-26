@@ -1,3 +1,3 @@
 struct RepoA {
-    var text = "Hello, World!"
+    var text = "Hello, World! Updated Now"
 }
